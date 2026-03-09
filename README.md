@@ -19,7 +19,7 @@ NeuroNexus is an AI-powered project discovery hub that learns user interests and
 ## Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/Streamlit-Projects.git
+   git clone https://github.com/aliii-codes/Streamlit-Projects.git
    cd Streamlit-Projects/NeuroNexus
    ```
 2. Install dependencies:
